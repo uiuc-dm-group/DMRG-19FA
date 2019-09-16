@@ -19,9 +19,9 @@ This is [the 2nd (2008) edition](http://www.cs.colorado.edu/~martin/slp.html) of
    [notes]()
 
     | introduction | SLP |
-   > This paper proposes a two-stage tagging scheme for joint extraction of entities and relations. The performance significant beats all of the previous works in NYT and WebNLG.
+   > This paper 
 
-   > my concern: the first stage, subject detection is more difficult than entity detection, so ...
+   > my concern: 
 
 2. :star: **Chapter 2: Regular Expressions, Text Normalization, Edit Distance**
     _Jurafsky and Martin_
@@ -29,6 +29,4 @@ This is [the 2nd (2008) edition](http://www.cs.colorado.edu/~martin/slp.html) of
    [notes]()
 
     | Regular Expression | Text Normalization | Edit Distance | SLP |
-   > This paper proposes a two-stage tagging scheme for joint extraction of entities and relations. The performance significant beats all of the previous works in NYT and WebNLG.
-
-   > my concern: the first stage, subject detection is more difficult than entity detection, so ...
+   > 
