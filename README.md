@@ -16,7 +16,7 @@ This is [the 2nd (2008) edition](http://www.cs.colorado.edu/~martin/slp.html) of
 1. **Chapter 1: Introduction** 
     _Jurafsky and Martin_
    [paper](http://www.cs.colorado.edu/~martin/SLP/Updates/1.pdf)
-   [notes](https://spaces.ac.cn/archives/6671)
+   [notes]()
 
     | introduction | SLP |
    > This paper proposes a two-stage tagging scheme for joint extraction of entities and relations. The performance significant beats all of the previous works in NYT and WebNLG.
@@ -26,7 +26,7 @@ This is [the 2nd (2008) edition](http://www.cs.colorado.edu/~martin/slp.html) of
 2. :star: **Chapter 2: Regular Expressions, Text Normalization, Edit Distance**
     _Jurafsky and Martin_
    [paper](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
-   [notes](https://spaces.ac.cn/archives/6671)
+   [notes]()
 
     | Regular Expression | Text Normalization | Edit Distance | SLP |
    > This paper proposes a two-stage tagging scheme for joint extraction of entities and relations. The performance significant beats all of the previous works in NYT and WebNLG.
