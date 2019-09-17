@@ -19,7 +19,7 @@ This is [the 2nd (2008) edition](http://www.cs.colorado.edu/~martin/slp.html) of
    [notes](https://github.com/uiuc-dm-group/DMRG-19FA/blob/master/notes_SLP.md)
 
     | introduction | SLP |
-   > This is an excellent introduction of NLP. The history and the structure of key issues in NLP really help me comb the understanding of NLP.
+   > This is an excellent introduction of NLP. The history and the structure of key issues in NLP really help me comb the understanding of NLP. Good job, Daniel Jurafsky and James H. Martin.
 
    > My favourite quote: "_We can only see a short distance ahead, but we can see plenty there that needs to be done._", by the great Alan Turing
 
