@@ -6,7 +6,7 @@ This repo covers the paper discussed by our DMRG in 2019 Fall. It covers mainly 
 
 Use tags to search papers of your interest.
 
-tags: ||
+tags: | SLP |
 
 
 
