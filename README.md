@@ -16,12 +16,12 @@ This is [the 2nd (2008) edition](http://www.cs.colorado.edu/~martin/slp.html) of
 1. **Chapter 1: Introduction** 
     _Jurafsky and Martin_
    [paper](http://www.cs.colorado.edu/~martin/SLP/Updates/1.pdf)
-   [notes]()
+   [notes](https://github.com/uiuc-dm-group/DMRG-19FA/blob/master/notes_SLP.md)
 
     | introduction | SLP |
-   > This paper 
+   > This is an excellent introduction of NLP. The history and the structure of key issues in NLP really help me comb the understanding of NLP.
 
-   > my concern: 
+   > My favourite quote: "_We can only see a short distance ahead, but we can see plenty there that needs to be done._", by the great Alan Turing
 
 2. :star: **Chapter 2: Regular Expressions, Text Normalization, Edit Distance**
     _Jurafsky and Martin_
