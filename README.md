@@ -30,3 +30,6 @@ This is [the 2nd (2008) edition](http://www.cs.colorado.edu/~martin/slp.html) of
 
     | Regular Expression | Text Normalization | Edit Distance | SLP |
    > 
+
+3. :star: **Chapter 6: Vector Semantics and Embeddings**
+[paper](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
