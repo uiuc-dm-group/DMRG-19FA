@@ -11,7 +11,7 @@ tags: | SLP |
 
 
 ## Speech and Language Processing (SLP)
-This is [the 2nd (2008) edition](http://www.cs.colorado.edu/~martin/slp.html) of Jurafsky and Martin's SLP textbook. Noticing that [the third version](https://web.stanford.edu/~jurafsky/slp3/) is also ready, and there being some difference in the material organization. In this repo, we focus on the sequence and material from **the 2nd edition**.
+This is [the 2nd (2008) edition](http://www.cs.colorado.edu/~martin/slp.html) of Jurafsky and Martin's SLP textbook. Noticing that [the third version](https://web.stanford.edu/~jurafsky/slp3/) is also ready, and there being some difference in the material organization. In this repo, we focus on the sequence and material from **the 3rd edition**.
 
 1. **Chapter 1: Introduction** 
     _Jurafsky and Martin_
