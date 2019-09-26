@@ -23,13 +23,20 @@ This is [the 2nd (2008) edition](http://www.cs.colorado.edu/~martin/slp.html) of
 
    > My favourite quote: "_We can only see a short distance ahead, but we can see plenty there that needs to be done._", by the great Alan Turing
 
-2. :star: **Chapter 2: Regular Expressions, Text Normalization, Edit Distance**
+2. **Chapter 2: Regular Expressions, Text Normalization, Edit Distance**
     _Jurafsky and Martin_
    [paper](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
    [notes]()
 
     | Regular Expression | Text Normalization | Edit Distance | SLP |
    > 
+
+3. :star: **Chapter 3: N-gram Language Model**
+    [paper]()
+    [notes]()
+    
+    > This chapter is very important and helpful with MP1. (and much more detailed and consolidated.)
+    > Furthermore, the idea is more related to Han's information cluster idea; looking forward to Chap 9, another LM, RNN.
 
 3. :star: **Chapter 6: Vector Semantics and Embeddings**
 [paper](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
