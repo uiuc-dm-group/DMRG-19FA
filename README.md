@@ -32,10 +32,12 @@ This is [the 2nd (2008) edition](http://www.cs.colorado.edu/~martin/slp.html) of
    > 
 
 3. :star: **Chapter 3: N-gram Language Model**
-    [paper]()
-    [notes]()
+    [paper](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
+    [notes](https://github.com/uiuc-dm-group/DMRG-19FA/blob/master/notes_SLP_chap3.md)
     
+     | N-gram | Language model |
     > This chapter is very important and helpful with MP1. (and much more detailed and consolidated.)
+    
     > Furthermore, the idea is more related to Han's information cluster idea; looking forward to Chap 9, another LM, RNN.
 
 3. :star: **Chapter 6: Vector Semantics and Embeddings**
