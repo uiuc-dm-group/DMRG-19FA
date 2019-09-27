@@ -20,6 +20,27 @@ To avoid _underflow_, we use log prob to replace the prob itself. p1*p2*p3 = exp
 
 
 
+### Chap 3.3 zeros and generalizations.
+- P(OOV) = 0? NO!!!
+- UNK: 
+	
+  solution A - predefine a dictionary and the UNK; 
+  
+	solution B - within training dataset, replace the words under the threshold to be UNK.
+
+### Chapter 3.4 Smoothing
+- add-1 smoothing [Laplace smoothing], not performing well in N-gram, but good in text classification.
+- add-k smoothing, 
+- backoff and interpolation, eg: trigram = 2gram (until 0 counts); trigram = 3gram + 2gram + unigram 
+- Kneser-Ney smoothing.
+
+
+### 3.7
+Entropy - lower bound, 
+
+cross-entropy - upper bound of entropy,
+
+perplexity - exp of cross entropy.
 
 
 
