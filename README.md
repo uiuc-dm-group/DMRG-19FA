@@ -42,3 +42,9 @@ This is [the 2nd (2008) edition](http://www.cs.colorado.edu/~martin/slp.html) of
 
 3. :star: **Chapter 6: Vector Semantics and Embeddings**
 [paper](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+
+
+4. **DFA: determined finite automata**
+    [paper](http://www.cse.chalmers.se/~coquand/AUTOMATA/o2.pdf)
+    
+    | language model |
